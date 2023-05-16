@@ -1,0 +1,28 @@
+{
+  "name": "querylite",
+  "version": "1.0.0",
+  "description": "QueryLite is an library that emulates the behavior of JQuery.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianAntonioAraya/QueryLite.git"
+  },
+  "keywords": [
+    "Jquery",
+    "QueryLite",
+    "Javascript"
+  ],
+  "author": "CristianAntonioAraya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianAntonioAraya/QueryLite/issues"
+  },
+  "homepage": "https://github.com/CristianAntonioAraya/QueryLite#readme",
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
